@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="min-h-screen p-4">
       <header className="glassmorphism p-4 mb-6">
-        <h1 className="text-3xl text-blue-300 flex items-center justify-center">
+        <h1 className="tracking-tight text-3xl text-sky-600 flex items-center justify-center">
           <FileJson className="mr-2" />
           DEFINICIÓN DE API
         </h1>

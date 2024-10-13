@@ -17,7 +17,7 @@ const ApiDefinitionForm: React.FC = () => {
     };
 
     return (
-        <div className="font-semibold p-4 bg-slate-800 bg-opacity-50 rounded-lg shadow-md backdrop-blur-lg backdrop-filter">
+        <div className="font-semibold p-4 bg-slate-800/50 rounded-lg outline-violet-500/50 shadow-indigo-700/50 shadow-2xl custom-shadow outline outline-2 outline-offset-2">
             <div className="mb-4 fade-in-up">
                 <input
                     type="text"
